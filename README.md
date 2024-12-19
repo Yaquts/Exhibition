@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Audio Autoplay</title>
+    <title>YAQUT</title>
 </head>
 <body>
     <h1>YAQUT</h1>
